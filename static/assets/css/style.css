@@ -1,0 +1,23 @@
+
+
+.btn2{
+    font-size: 25px;
+    padding: 15px 30px;
+    background-color: white;
+    color: black;
+    border-radius: 20px;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    font-family: sans-serif;
+    transition: all 0.4s;
+
+    }
+
+.btn2: focus{
+    outline: none;
+    }
+
+.btn2:hover{
+    background-color: black
+    color: white;
+}
